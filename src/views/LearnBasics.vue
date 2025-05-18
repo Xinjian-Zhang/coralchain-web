@@ -1,6 +1,6 @@
 <template>
   <section class="px-6 py-12 max-w-6xl mx-auto">
-    <h2 class="text-3xl font-bold text-orange-300 mb-10">{{ t.menu.learnBasics }}</h2>
+    <h2 class="text-3xl font-bold text-white mb-10">{{ t.menu.learnBasics }}</h2>
 
     <div class="grid md:grid-cols-2 gap-6">
       <div
