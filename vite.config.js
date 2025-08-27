@@ -4,5 +4,5 @@ import WindiCSS from 'vite-plugin-windicss'
 
 export default defineConfig({
   plugins: [vue(), WindiCSS()],
-  base: '/' // use: `coralchain-web` when domain resolution is not set 
+  base: 'coralchain-web' // use: `coralchain-web` when domain resolution is not set 
 })
